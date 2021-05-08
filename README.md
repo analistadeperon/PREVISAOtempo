@@ -430,3 +430,22 @@
         <script type="text/javascript" src="app/components/cidadesEstados.js"></script>
       </body>
       </html>
+      corFundo{
+  background-color: ghostwhite;
+}
+
+.temp-color{
+  background-color: paleturquoise;
+}
+
+.button{
+  padding-top: 3%;
+}
+
+.fundoMsg{
+  background-color: paleturquoise;
+}
+
+.colorMsg{
+  background-color: #D1EEEE;
+}
